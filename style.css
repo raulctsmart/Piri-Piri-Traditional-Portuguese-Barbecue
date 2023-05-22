@@ -325,19 +325,6 @@ header .icons #menu{
 
 
 /*media query*/
-@media (max-width: 991px){
-	html{
-		font-size: 55%;
-	}
-	header{
-		padding: 1rem 2rem;
-	}
-	header .logo img{
-		height: 7rem;
-	}
-}
-
-
 @media (max-width: 768px){
 	header .logo img{
 		height: 7rem;
@@ -388,6 +375,6 @@ header .icons #menu{
 	.about-col-2{
 		font-size: 14px;
 	}
-
+}
 
 
